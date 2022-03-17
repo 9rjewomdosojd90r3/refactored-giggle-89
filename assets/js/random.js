@@ -20,5 +20,5 @@ function random_gen(){
     
     var random_link = items[Math.floor(Math.random() * items.length)];
 
-    window.location.href = "https://romantic-hawking-416dff.netlify.app" + random_link;
+    window.location.href = "https://ellispetryla.com" + random_link;
 }
