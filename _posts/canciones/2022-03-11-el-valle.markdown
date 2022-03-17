@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "El Valle"
+date:   2022-03-11 00:00:00 -0300
+categories: Canciones
+permalink: "/canciones/el-valle"
+excerpt: "Vals sin letra."
+---
+<iframe width="100%" height="437" src="https://www.youtube.com/embed/b4RIheqDBt8" title="YouTube video player" class="video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+## Sobre la canción
+*El Valle* es un vals que compuse a comienzos de 2022. Inspirado un poco por algunas canciones de Enya, hice lo posible para que *El Valle* sea lo más "universal" posible, salvando las distancias, por lo que lo despojé de toda letra (incluso de vocablos sin sentido,  como los que aparecen en *[Anderandé](/canciones/anderande)*) y decidí que sólo usaría mi voz para complementar lo más cercanamente posible al instrumental al que había llegado después de unas cuantas pruebas. 
+
+La canción no tiene un estribillo tradicional, en el sentido en el que cada vez que se repite lo que podría considerarse el "hook," sólo unas cuántas veces este aparece completo de una sola pasada (notablemente al principio y al final). Las demás veces en las que la misma melodía comienza a armarse, se introduce una variación que la "deconstruye" (por así decirlo), algo que me pareció interesante incluir para darle una mayor variación.
+
+La versión de la canción aquí mostrada es el primer demo.

@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique+B1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+html, body{
+  font-family: 'Libre Baskerville', serif;
+  height: 100%;
+  margin: 0;
+  background-color: #EEEEEE;
+}
+
+.navbar{
+  background-color: #EEEEEE !important;
+  padding: 20px !important;
+}
+
+.logo{
+  width: 250px;
+}
+
+.navbar-light .navbar-toggler{
+  border: none !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-collapse.collapsing,
+.navbar-collapse.show{
+    padding-top: 12px;
+    width: 80%;
+    text-align: center !important;
+}
+
+.navbar-light .navbar-toggler-icon{
+  background-image: url(/assets/svg/hamburguer.svg) !important;
+}
+
+.nav-link{
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: 'Shippori Antique B1', sans-serif;
+  color: #001E6C !important;
+}
+
+.nav-link:hover{
+  text-decoration: underline !important;
+}
+
+.azar{
+  border: 2px solid #001E6C;
+  padding-left: 8px !important;
+  padding-right: 8px !important;
+}
+
+.jumbotron{
+  background-color: #EEEEEE;
+  color: #001E6C;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center !important;
+  border-bottom: 10px solid #001E6C;
+}
+
+a{
+  color: #001E6C;
+}
+
+a:hover{
+  color: #001E6C;
+  text-decoration: underline;
+}
+
+a.main_link{
+  color: #001E6C;
+  text-decoration: underline;
+  text-transform: lowercase;
+}
+
+.category, .copyright{
+  font-size: 10px;
+  letter-spacing: 2px;
+  padding: 6px;
+  margin-bottom: 35px;
+  text-transform: uppercase;
+  font-family: 'Shippori Antique B1', sans-serif;
+  border-radius: 1px;
+}
+
+.separador{
+  width: 100px;
+  margin-top: 35px;
+}
+
+.story{
+  text-align: justify;
+  text-indent: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 50px;
+  line-height: 35px;
+}
+
+.directory-title{
+  font-family: 'Shippori Antique B1', sans-serif;
+  background-color: #001E6C;
+  color: #EEEEEE;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 30px;
+  font-size: 24px;
+  text-align: left !important;
+}
+
+h2{
+  font-family: 'Shippori Antique B1', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 18px;
+  margin-bottom: 40px;
+  text-indent: 0px;
+}
+
+.copyright{
+  margin-top: 45px !important;
+}
+
+ul, li{
+  text-indent: 0px !important;
+}
+
+.card{
+  border: 0px !important;
+}
+
+.card a{
+  text-decoration: none !important;
+}
+
+.card-title{
+  font-family: 'Shippori Antique B1', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 19px;
+  text-indent: 0px !important;
+  margin-bottom: 10px;
+}
+
+.card-text{
+  text-indent: 0px !important;
+  text-align: left;
+}
+
+.col a:hover{
+  text-decoration: none !important;
+}
+
+.card:hover{
+  transform: scale(1.02) !important;
+  transition: 0.5s !important;
+  box-shadow: 0px 5px 50px -8px #ddd;
+}
+
+.card-link{
+  text-decoration: none !important;
+}
+
+p.a{
+  text-decoration: underline !important;
+}
+
+p.content-itself a{
+  text-decoration: underline !important;
+}
+
+.back{
+  font-size: 21px;
+  text-transform: lowercase;
+text-decoration: underline;
+}
+
+.back:hover{
+  cursor: pointer;
+}
+
+@media (max-width: 992px) {
+  .story{
+    padding-left: 7% !important;
+    padding-right: 7% !important;
+  }
+}

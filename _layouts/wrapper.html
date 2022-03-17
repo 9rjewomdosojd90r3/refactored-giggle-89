@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="es">
+  {% include head.html %}
+  <body>
+    <script src="http://127.0.0.1:4000/assets/js/random.js"></script>
+    {% include header.html %}
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        {{ content }}
+      </div>
+    </div>
+    {% include js.html %}
+  </body>
+</html>
